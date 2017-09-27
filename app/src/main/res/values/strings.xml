@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie MVVM</string>
+    <string name="title_activity_utama">ActivityUtama</string>
+</resources>
